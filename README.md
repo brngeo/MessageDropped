@@ -3,9 +3,8 @@ Capture The Flag(This is for Educational Purposes Only). Mind G4m3s.
 
 📝 **Instructions**:
 
-👨🏻 Brayan: \
-
-    	My friend sent me this message.txt , \
+👨🏻 Brayan: 
+    	My friend sent me this message.txt ,
     	but I dropped my computer
     	before I could read it. Help!!!
     	
