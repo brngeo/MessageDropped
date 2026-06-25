@@ -1,2 +1,2 @@
-# ctf20
+# ctf20 Grep
 Capture The Flag(This is for Educational Purposes Only). Mind G4m3s.
