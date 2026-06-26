@@ -1,4 +1,4 @@
-# ctf20 Message Dropped
+# CTF06-26-2026 Message Dropped
 Capture The Flag(This is for Educational Purposes Only). Mind G4m3s.
 
 **👨🏻 Kuma**: \
